@@ -1,0 +1,14 @@
+// Placeholders usados no meu Sass
+// O image replacement usado para esconder o texto de um elemento no HTML, mas ainda precisa da imagem de fundo.
+%image-replacement {
+	text-indent: -9999px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+}
+
+// Placeholders usados no meu Sass
+%sombra-padrao {
+	-webkit-box-shadow: 0 2px 6.65px 0.35px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 2px 6.65px 0.35px rgba(0, 0, 0, 0.3);
+}
+
