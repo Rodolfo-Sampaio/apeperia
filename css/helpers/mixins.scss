@@ -4,8 +4,6 @@
 	border-radius: $raio;
 }
 
-@import "compass/utilities";
-
 @function multiplica-pela-fonte($multiplicador) {
 	@return round($multiplicador * $tamanho-da-fonte-padrao);
 }
