@@ -31,7 +31,7 @@ ___
 <span style="letter-spacing: 10px">
    <img src="https://skillicons.dev/icons?i=html" title="HTML" width="60px"/>
    <img src="https://skillicons.dev/icons?i=css" title="CSS" width="60px"/>
-   <img src="https://skillicons.dev/icons?i=scss" title="SCSS" width="60px"/>
+   <img src="https://skillicons.dev/icons?i=sass" title="SASS" width="60px"/>
 </span>
 
 #
